@@ -2,5 +2,5 @@
 layout: slide
 title: “Welcome to our second slide!”
 ---
-mork me in your heart
+vvs my diamonds i dont need no light to shine
 Use the left arrow to go back!
